@@ -88,9 +88,7 @@ Then copy the following file into a file called Cargo.toml ; this is where we te
 
 This is what your directory should look like :
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](/learn_src/learn_assets/1.png)
+![alt_text](https://raw.githubusercontent.com/CreatorOS/deploying-the-program-on-to-solana/main/learn_src/learn_assets/1.png)
 
 Now let’s compile the program
 
